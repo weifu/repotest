@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote fetch="." name="192.168.11.24" review=""/>
+  
+  <default remote="192.168.11.24" revision="dev-askey" sync-j="2"/>
+  
+  <project name="MPA30/kernel" path="kernel"/>
+  <project name="MPA30/u-boot" path="bootloaders/u-boot"/>        
+</manifest>
+
+
+
+
+
